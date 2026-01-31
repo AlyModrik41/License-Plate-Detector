@@ -26,3 +26,24 @@ The model is fine-tuned on a custom license plate dataset and can accurately det
 ---
 
 ## 📁 Project Structure
+license_plate_app/
+├── app.py # Streamlit application
+├── best.pt # Trained YOLO model weights
+├── requirements.txt # Dependencies
+└── README.md
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/license-plate-detection.git
+cd license-plate-detection
+
+2️⃣ Install dependencies
+pip install -r requirements.txt
+
+3️⃣ Run the Streamlit app
+streamlit run app.py
+
