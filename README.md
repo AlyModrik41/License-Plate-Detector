@@ -5,6 +5,11 @@ The model is fine-tuned on a large-scale license plate dataset and deployed thro
 
 ---
 
+
+https://github.com/user-attachments/assets/35650869-3190-41fb-addd-94e6eb79d129
+
+
+
 ## 📌 Project Overview
 
 This project focuses on detecting vehicle license plates in images and videos with:
